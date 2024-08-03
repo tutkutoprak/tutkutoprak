@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tutkutoprak
+- 👋 Hi, I’m Tutku Toprak
 - 👀 I’m interested in Data Science and Data Analytics.
 - 🌱 I’m currently learning Data Science and ML and AI.
 - 💞️ I’m looking to collaborate on Data Science.
