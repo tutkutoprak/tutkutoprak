@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Data Analytics.
 - 🌱 I’m currently learning Data Science and ML and AI.
 - 💞️ I’m looking to collaborate on Data Science.
-- 📫 How to reach me https://www.linkedin.com/in/tutku-toprak
+- 📫 How to reach me https://www.linkedin.com/in/tutku-toprak https://medium.com/@tutkutoprak21
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
